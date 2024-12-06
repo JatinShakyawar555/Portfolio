@@ -24,7 +24,7 @@ function Media() {
 					GitHub < FaGithub size={26} />
 				</>
 			),
-			href: 'https://github.com',
+			href: 'https://github.com/JatinShakyawar555?tab=repositories',
 
 
 		},
