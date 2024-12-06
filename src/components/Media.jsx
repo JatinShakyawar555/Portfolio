@@ -47,7 +47,7 @@ function Media() {
 					Resume < BsFillPersonLinesFill size={26} />
 				</>
 			),
-			href: `http://localhost:5173/${resume}`,
+			href: resume,
 			style: 'rounded-br-md',
 			download: true,
 
