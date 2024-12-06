@@ -2,6 +2,7 @@ import React from 'react'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
+import resume from '../images/Jatin-Resume.pdf'
 
 function Media() {
 
@@ -46,7 +47,7 @@ function Media() {
 					Resume < BsFillPersonLinesFill size={26} />
 				</>
 			),
-			href: 'https://linkedin.com',
+			href: `http://localhost:5173/${resume}`,
 			style: 'rounded-br-md',
 			download: true,
 
