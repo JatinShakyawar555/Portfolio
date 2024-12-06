@@ -1,7 +1,9 @@
 import React from 'react'
 import jatin from '../images/jatin.jpg';
 import { FaArrowRight } from "react-icons/fa6";
-import {Link} from "react-scroll"
+
+import {Link} from "react-scroll";
+
 function Home() {
   return (
 	<div name="Home" className='h-screen w-full bg-gradient-to-b from-purple-500 via-indigo-500 to-blue-500 '>
