@@ -5,7 +5,7 @@ function Contact() {
 	<div name="Contact" className='p-4 w-full h-screen text-white bg-gradient-to-b from-purple-500 via-indigo-500 to-blue-500'>
 		<div className='flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full'>
 			<div className='pb-8'>
-				<p className='text-4xl font-bold inline border-bottom-4 border-b-4'>Contact</p>
+				<p className='text-4xl font-bold inline border-bottom-4 border-b-4 mt-3' >Contact</p>
 				<p className='py-6 text-lg'>Submit the Form Below To Get Hire Me</p>
 			</div>
 
