@@ -1,5 +1,5 @@
 import React from 'react'
-import jatin from '../images/jatin.jpg';
+import jatin from '../images/jatin1.png';
 import { FaArrowRight } from "react-icons/fa6";
 
 import {Link} from "react-scroll";
