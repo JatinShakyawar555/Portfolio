@@ -10,12 +10,12 @@ function Projects() {
             siteLink: "https://flick-screen.vercel.app/",
             codeLink: "https://github.com/JatinShakyawar555/FlickScreen"
         },
-        {
-            id: 2,
-            src: pro2,
-            siteLink: "https://project-20f85.web.app/",
-            codeLink: "https://github.com/JatinShakyawar555/Gmail-AI-Query-Support"
-        }
+        // {
+        //     id: 2,
+        //     src: pro2,
+        //     siteLink: "https://project-20f85.web.app/",
+        //     codeLink: "https://github.com/JatinShakyawar555/Gmail-AI-Query-Support"
+        // }
     ];
 
     return (

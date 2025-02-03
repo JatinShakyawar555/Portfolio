@@ -14,7 +14,7 @@ function About() {
 			<br />
 
 			<h1 className='text-xl'>
-			a front-end developer living in India ( ajmer ) . Currently, I'm pursuing my Bachelor's degree in ( Computer Applications & IT ) at ( MDSU University ), where I’ve developed a strong passion for web development.
+			A Enthusiasm learner living in India ( ajmer ) . Currently, I'm pursuing my Bachelor's degree in ( Computer Applications & IT ) at ( MDSU University ), where I’ve developed a strong passion for web development.
 			</h1>
 
 			<h1>

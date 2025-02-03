@@ -11,7 +11,7 @@ function Home() {
 		<div className='flex flex-col justify-center h-full'>
 		<h2 className='text-4xl sm:text-7xl font-semibold text-white'>I'm a Frontend Developer</h2>
 		<p className='text-gray-900 py-4  '>
-		Hi, I'm a passionate front-end developer with HTML, CSS, JavaScript, and React. I love creating intuitive, responsive web applications that provide seamless user experiences. Explore my projects to see what I've been working on. Let's build something great together!
+		Hi, I'm a passionate learner with fundamental knowledge of HTML, CSS, JavaScript, and React. I love working passionately on my projects. Explore my work to see what I've been creating. Let's build something great together.
 		</p>
 		
 	
