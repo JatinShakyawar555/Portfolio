@@ -2,7 +2,7 @@ import React from 'react'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
-import resume from '../images/Jatin_Shakyawar_Resume.pdf'
+import resume from '../images/Jatin-Shakyawar-Resume.pdf'
 
 function Media() {
 
