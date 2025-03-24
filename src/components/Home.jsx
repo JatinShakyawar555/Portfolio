@@ -9,7 +9,7 @@ function Home() {
 	<div name="Home" className='h-screen w-full bg-gradient-to-b from-purple-500 via-indigo-500 to-blue-500 '>
 	<div className='max-w-screen-lg mx-auto flex flex-col justify-center items-center h-full px-4 md:flex-row'>
 		<div className='flex flex-col justify-center h-full'>
-		<h2 className='text-4xl sm:text-7xl font-semibold text-white'>I'm a Frontend Developer</h2>
+		<h2 className='text-4xl sm:text-7xl font-semibold text-white'>I'm a Developer</h2>
 		<p className='text-gray-900 py-4  '>
 		Hi, I'm a passionate learner with fundamental knowledge of HTML, CSS, JavaScript, and React. I love working passionately on my projects. Explore my work to see what I've been creating. Let's build something great together.
 		</p>

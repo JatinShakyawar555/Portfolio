@@ -17,9 +17,9 @@ function About() {
 			A Enthusiasm learner living in India ( ajmer ) . Currently, I'm pursuing my Bachelor's degree in ( Computer Applications & IT ) at ( MDSU University ), where I’ve developed a strong passion for web development.
 			</h1>
 
-			<h1>
+			{/* <h1>
 				SCHOOLING
-			</h1>
+			</h1> */}
 
 		</div>
 	</div>
